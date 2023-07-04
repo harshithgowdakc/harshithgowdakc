@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harshith Gowda</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h1 align="center">Hi 👋 </h1>
+<h3 align="center">I'm Harshith Gowda,Full Stack Data Scientist with strong background in Mathematics, Statistics, Python, Machine Learning and Deep Learning. I completed Bacherlor in electronic and communication engineering.</h3>
 <img align="right" alt="Coding" width="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 
