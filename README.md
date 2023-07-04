@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 </h1>
 <h3 align="center">I'm Harshith Gowda,Full Stack Data Scientist with strong background in Mathematics, Statistics, Python, Machine Learning and Deep Learning. I completed Bacherlor in electronic and communication engineering.</h3>
-<img align="right" alt="Coding" width="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="Coding" width="400" src = "https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif"
 
 
 <h3 align="left">Connect with me:</h3>
